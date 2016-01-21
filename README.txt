@@ -17,6 +17,6 @@ such as valid URL, valid port, etc..
 The TestParameters is a JUnit implemented unit test
 of the class Parameters.
 
-All of this was developed and tested with Eclips Mars.
+All of this was developed and tested with Eclipse Mars 4.5.1.
 
 David Hetherington - 14 Janaury 2016
